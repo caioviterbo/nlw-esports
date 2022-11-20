@@ -30,3 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Um pequeno perfil pessoal criado com o intuito de mostrar meus principais interesses.
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
